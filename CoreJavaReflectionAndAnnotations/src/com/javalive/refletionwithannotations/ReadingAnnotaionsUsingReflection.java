@@ -16,4 +16,7 @@ public class ReadingAnnotaionsUsingReflection {
 		}
 	}
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/master
