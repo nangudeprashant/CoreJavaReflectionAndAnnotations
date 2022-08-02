@@ -3,7 +3,9 @@ package com.javalive.reflection;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-
+/*
+ * Here in this class we get the insights of class SampleClass by using features of Reflection.
+ */
 public class ReflectionDemo {
 	public static void main(String args[]) throws Exception
     {
