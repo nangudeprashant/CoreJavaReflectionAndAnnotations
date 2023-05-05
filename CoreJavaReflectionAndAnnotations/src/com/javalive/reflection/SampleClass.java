@@ -5,7 +5,7 @@ public class SampleClass {
 	private String s;
 
 	// creating a public constructor
-	public SampleClass()  {  s = "We are ITAspirants....."; }
+	public SampleClass()  {  s = "We are ITAspirants here....."; }
 
 	// Creating a public method with no arguments
 	public void method1() {
